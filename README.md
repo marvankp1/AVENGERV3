@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/marvankp1/AVENGERV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGERV3&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGERV3)
 
 #### Hard Way
 ```bash
